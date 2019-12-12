@@ -2,24 +2,24 @@ title: Stackbit Fresh Theme
 baseurl: /
 permalink: '/:title/'
 layout_style: overflow
-palette: blue
+palette: orange
 header:
-  title: Stackbit Fresh
-  tagline: Header Tagline
-  profile_img: images/avatar.png
   bg: dark
   has_nav: true
   has_social: true
+  profile_img: images/avatar.png
+  tagline: Header Tagline
+  title: Stackbit Fresh
 footer:
   content: '&copy; All rights reserved.'
   links:
-    - text: Made with Stackbit
+    - new_window: true
+      text: Made with Stackbit
       url: 'https://www.stackbit.com'
-      new_window: true
 sass:
   indentWidth: 4
-  style: nested
   precision: 10
+  style: nested
 plugins:
   - jekyll-menus
 exclude:
@@ -36,6 +36,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-collections:
-  posts:
-    permalink: '/posts/:title/'
