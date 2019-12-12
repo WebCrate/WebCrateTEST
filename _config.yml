@@ -7,15 +7,15 @@ header:
   bg: dark
   has_nav: true
   has_social: true
-  profile_img: images/avatar.png
-  tagline: Header Tagline
-  title: Stackbit Fresh
+  profile_img: /images/webcratev2.png
+  tagline: WebCrate Makes Documentation Easy
+  title: WebCrate
 footer:
   content: '&copy; All rights reserved.'
   links:
     - new_window: true
-      text: Made with Stackbit
-      url: 'https://www.stackbit.com'
+      text: 'Purchase a Site Through WebCrate '
+      url: 'https://discord.gg/sW4Xt2x'
 sass:
   indentWidth: 4
   precision: 10
