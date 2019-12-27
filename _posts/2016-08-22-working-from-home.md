@@ -1,12 +1,9 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
-date: '2016-08-22'
-thumb_img_path: images/9.jpg
-content_img_path: images/9.jpg
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+title: Tweezeroni's Sample Site
+date: 2019-12-27T05:00:00.000Z
+thumb_img_path: /images/78e0111f0895db41d7d2d81c93f0cacf.jpg
+content_img_path: /images/78e0111f0895db41d7d2d81c93f0cacf.jpg
+excerpt: 'Why my sites are high quality and get what you need done. '
 layout: post
 ---
 
