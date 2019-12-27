@@ -1,12 +1,6 @@
 {
   "links": [
     {
-      "type": "devto",
-      "title": "DEV",
-      "icon": "fa-dev",
-      "url": "https://dev.to/"
-    },
-    {
       "title": "Discord",
       "icon": "fa-discord",
       "url": "https://discord.gg/sW4Xt2x"
