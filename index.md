@@ -19,7 +19,7 @@ sections:
     title: About
     type: contentblock
   - actions:
-      - label: You Discord Link
+      - label: Your Discord Link
         url: ERROR
     component: posts_block.html
     num_posts_displayed: 4
