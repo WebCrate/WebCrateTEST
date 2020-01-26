@@ -1,4 +1,4 @@
-title: WebCrate Testing Site v2
+title: WebCrate Testing Site
 baseurl: /
 permalink: '/:title/'
 layout_style: overflow
